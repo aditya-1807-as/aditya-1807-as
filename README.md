@@ -177,6 +177,20 @@ A Java web application for practising a structured server-side Java stack.
 
 ---
 
+### 🛡️ KeyShield — API Key & AI Gateway Management Platform
+<img src="https://img.shields.io/badge/SECURITY-Zero--Knowledge-0EA5E9?style=flat-square" alt="Zero-knowledge security"/> <img src="https://img.shields.io/badge/AI-Multi--Model_Routing-7C3AED?style=flat-square" alt="Multi-model routing"/> <img src="https://img.shields.io/badge/STACK-Java_21_%7C_Spring_Boot_3-ED8B00?style=flat-square" alt="Java 21 and Spring Boot 3"/>
+
+An enterprise-style API gateway for secure API key management, usage governance, and OpenAI-compatible multi-model routing.
+
+**Highlights**
+- **Zero-knowledge API key storage:** SHA-256 key hashing and constant-time authentication.
+- **Role-based access control:** Spring Security and JWT-based authorization.
+- **Concurrency-safe quotas:** Atomic MySQL rate limiting and usage quota enforcement designed to prevent race-condition over-deductions during traffic bursts.
+- **Multi-model routing:** OpenAI-compatible interface for routing requests across models.
+- **Live operations dashboard:** React 18 glassmorphic UI with audit telemetry and latency charts.
+
+**Stack:** Java 21 · Spring Boot 3 · Spring Security · JWT · MySQL · React 18
+
 ## 🧩 LeetCode · live profile stats
 
 <div align="center">
