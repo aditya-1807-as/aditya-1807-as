@@ -199,16 +199,16 @@ A Java web application for practising a structured server-side Java stack.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/aditya-1807-as">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=58D9FF&icon_color=7C8CFF&text_color=C9D1D9" alt="GitHub overview statistics"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/aditya-1807-as">
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58D9FF&text_color=C9D1D9&langs_count=6" alt="Most-used programming languages"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/aditya-1807-as">
   <img width="72%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58D9FF&fire=FF9E64&currStreakLabel=58D9FF" alt="GitHub contribution streak"/>
 </a>
 
